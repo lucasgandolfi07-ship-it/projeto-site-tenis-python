@@ -1,3 +1,3 @@
 ## estrutura do projeto
-- ´site_tenis.ipynb : versao desenvolvida no google colab
-- `site_tenis.py : versao em python puro para melhor vizualizaçâo 
+- ´Aula0python.ipynb : versao desenvolvida no google colab
+- `projeto_site_tenispynb.py : versao em python puro para melhor vizualizaçâo 
