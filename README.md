@@ -1,2 +1,3 @@
-# projeto-site-tenis-python
-Projeto basico em python simulando um site de venda de tenis
+## estrutura do projeto
+- ´site_tenis.ipynb : versao desenvolvida no google colab
+- `site_tenis.py : versao em python puro para melhor vizualizaçâo 
